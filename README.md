@@ -1,2 +1,2 @@
 # CodeQL-S-SOME-IDEA
-关于CodeQL的一些坑点操作
+一些CodeQL随手笔记 and 查询脚本
